@@ -19,10 +19,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/pingcap/errors"
 	"github.com/cookieY/parser/auth"
 	"github.com/cookieY/parser/mysql"
 	"github.com/cookieY/parser/types"
+	"github.com/pingcap/errors"
 	"github.com/pingcap/tipb/go-tipb"
 )
 

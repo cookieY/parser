@@ -16,12 +16,11 @@ package model
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/cookieY/parser/terror"
+	"github.com/pingcap/errors"
 	"math"
 	"sync"
 	"time"
-
-	"github.com/pingcap/errors"
-	"github.com/cookieY/parser/terror"
 )
 
 // ActionType is the type for DDL action.
