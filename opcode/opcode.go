@@ -18,7 +18,7 @@ import (
 	"io"
 
 	"github.com/pingcap/errors"
-	. "github.com/pingcap/parser/format"
+	. "github.com/cookieY/parser/format"
 )
 
 // Op is opcode type.

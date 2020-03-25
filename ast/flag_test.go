@@ -18,7 +18,7 @@ import (
 
 	. "github.com/pingcap/check"
 	"github.com/pingcap/parser"
-	"github.com/pingcap/parser/ast"
+	"github.com/cookieY/parser/ast"
 )
 
 func TestT(t *testing.T) {

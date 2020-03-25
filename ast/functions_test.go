@@ -16,8 +16,8 @@ package ast_test
 import (
 	. "github.com/pingcap/check"
 	"github.com/pingcap/parser"
-	"github.com/pingcap/parser/ast"
-	. "github.com/pingcap/parser/ast"
+	"github.com/cookieY/parser/ast"
+	. "github.com/cookieY/parser/ast"
 	driver "github.com/pingcap/tidb/types/parser_driver"
 )
 

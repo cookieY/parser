@@ -19,8 +19,8 @@ import (
 
 	. "github.com/pingcap/check"
 	"github.com/pingcap/parser"
-	. "github.com/pingcap/parser/ast"
-	. "github.com/pingcap/parser/format"
+	. "github.com/cookieY/parser/ast"
+	. "github.com/cookieY/parser/format"
 	"github.com/pingcap/tidb/types/parser_driver"
 )
 

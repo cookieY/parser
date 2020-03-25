@@ -18,7 +18,7 @@ import (
 	"strings"
 
 	"github.com/pingcap/errors"
-	. "github.com/pingcap/parser/format"
+	. "github.com/cookieY/parser/format"
 )
 
 func newInvalidModeErr(s string) error {

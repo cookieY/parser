@@ -19,7 +19,7 @@ import (
 	"strconv"
 
 	"github.com/pingcap/errors"
-	"github.com/pingcap/parser/mysql"
+	"github.com/cookieY/parser/mysql"
 	log "github.com/sirupsen/logrus"
 )
 
